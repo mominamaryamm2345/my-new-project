@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project develops a predictive machine learning tool designed to forecast short-term cash flow deficits and credit default risk for small-to-medium enterprises (SMEs). By analysing historical transaction patterns, operational overheads, and accounts receivable aging, the model predicts 
 
 
 ## Background
