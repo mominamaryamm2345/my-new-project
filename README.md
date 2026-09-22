@@ -8,8 +8,6 @@ Final project for the Building AI course
 
 ## Summary
 
-This project develops a predictive machine learning tool designed to forecast short-term cash flow deficits and credit default risk for small-to-medium enterprises (SMEs). By analysing historical transaction patterns, operational overheads, and accounts receivable aging, the model predicts 
-
 
 ## Background
 
